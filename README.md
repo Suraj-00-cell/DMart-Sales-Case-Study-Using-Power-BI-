@@ -1,6 +1,3 @@
-
-Here's the revised text with all instances of "Walmart" replaced with "DMart":
-
 DMart-Sales-Case-Study-Using-Power-BI
 This project has been made on Power BI using the DMart data sales (from Kaggle).
 
@@ -14,6 +11,7 @@ Therefore, this project helps in boiling down the relationship between ----> Sal
 These relationships help in drawing astonishing insights for business growth and analysis.
 To analyze the trend using KPI (Key Performance Index).
 Schema Design
+
 
 
 Dashboards / Report Created.
@@ -51,8 +49,3 @@ Overall Total Revenue is currently at 11982980. Total Revenue for Day of Shipmen
 Sales goal analysis:
 
 At 2348492, overall Sales is below target. Notably, Day of Shipment 0 (52080) is significantly above its individual target of 57288, while City London and 37 other segments are significantly below their individual targets.
-
-
-
-
-
