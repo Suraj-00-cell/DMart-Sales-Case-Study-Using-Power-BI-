@@ -20,9 +20,6 @@ To analyze the trend using KPI (Key Performance Index).
 
 # Dashboards / Report Created.
 
-## Summary of the data.
-
-![Summary](https://user-images.githubusercontent.com/86300718/211861200-e89f9a7d-ef94-4c79-971f-539fee39e4f2.png)
 
 ## Sales Detail.
 
