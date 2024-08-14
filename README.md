@@ -11,8 +11,10 @@ Power BI helps in developing interactive dashboards, hence you can extract visua
 Therefore, this project helps in boiling down the relationship between ----> Sales, different customers, different categories of sales, different regions, and many more.
 These relationships help in drawing astonishing insights for business growth and analysis.
 To analyze the trend using KPI (Key Performance Index).
-Schema Design
 
+# Schema Design 
+
+![schema design](https://user-images.githubusercontent.com/86300718/211863233-93ed79ea-1844-4079-83cc-4c5afbc19086.png)
 
 
 
