@@ -15,9 +15,6 @@ Schema Design
 
 
 
-# Schema Design 
-
-![schema design](https://user-images.githubusercontent.com/86300718/211863233-93ed79ea-1844-4079-83cc-4c5afbc19086.png)
 
 # Dashboards / Report Created.
 
